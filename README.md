@@ -26,7 +26,6 @@
   <a href="#-executive-summary--philosophy-"><b>Executive Summary</b></a> •
   <a href="#-core-architecture-pillars"><b>Core Pillars</b></a> •
   <a href="#-quantified-enterprise-business-impact"><b>Impact Metrics</b></a> •
-  <a href="#-industry-certifications--credentials"><b>Certifications</b></a> •
   <a href="#-enterprise-technical-arsenal"><b>Tech Stack</b></a> •
   <a href="#1-enterprise-production-rag-retrieval-augmented-generation-architecture"><b>Production RAG</b></a> •
   <a href="#2-autonomous-agentic-ai--model-context-protocol-mcp-ecosystem"><b>Agentic AI & MCP</b></a> •
@@ -55,23 +54,6 @@
 - ☁️ **Azure Enterprise Foundation:** Microsoft Cloud Adoption Framework (CAF) management group hierarchy, private link endpoints for all PaaS services, and centralized traffic inspection through Azure Firewall Premium.
 - ☸️ **Kubernetes (AKS) & Cloud Native:** Microservices orchestration with AKS, Helm charts, automated container image scanning, Istio service mesh, and GitOps delivery models.
 - 🔄 **Enterprise CI/CD Pipelines:** Trunk-based branching strategies, mandatory multi-reviewer pull request policies, automated quality gates, and automated deployment rollback runbooks across Azure DevOps and GitHub Actions.
-
-
-<br/>
-
-## 🏆 Industry Certifications & Credentials
-
-<div align="center">
-
-[![Azure Solutions Architect](https://img.shields.io/badge/Microsoft_Certified-Azure_Solutions_Architect_Expert_(AZ--305)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![DevOps Engineer Expert](https://img.shields.io/badge/Microsoft_Certified-DevOps_Engineer_Expert_(AZ--400)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![Azure Security Engineer](https://img.shields.io/badge/Microsoft_Certified-Azure_Security_Engineer_(AZ--500)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp_Certified-Terraform_Associate_(003)-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](#)
-[![CKA](https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator_(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![FinOps Certified](https://img.shields.io/badge/Linux_Foundation-FinOps_Certified_Practitioner_(FOCP)-107C41?style=for-the-badge&logo=linux-foundation&logoColor=white)](#)
-
-</div>
 
 ---
 
