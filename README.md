@@ -524,59 +524,41 @@ Senior engineering requires mastery of the end-to-end delivery and procurement l
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/patelneetu10-stack">enterprise-agentic-rag-mcp</a></h3>
-      <p>Production Multi-Agent framework integrating Model Context Protocol (MCP), LangGraph, Azure OpenAI, and Hybrid Vector Search (Azure AI Search + pgvector) with PII redaction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangGraph-Agentic-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Azure_AI_Search-RAG-0078D4?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚪 <a href="https://github.com/patelneetu10-stack">llmops-ai-gateway-terraform</a></h3>
-      <p>Terraform module provisioning enterprise Azure APIM GenAI Gateway with token rate limiting, Redis semantic caching, smart model routing, and Langfuse tracing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/APIM-AI_Gateway-0078D4?style=flat-square" />
-        <img src="https://img.shields.io/badge/FinOps-Token_Cache-28A745?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/patelneetu10-stack">azure-landing-zone-terraform</a></h3>
-      <p>Enterprise CAF-compliant Terraform module provisioning Hub-and-Spoke networking, Azure Firewall Premium, Private DNS zones, and centralized Log Analytics.</p>
+      <h3>🏛️ <a href="https://github.com/patelneetu10-stack/azure-landing-zone">azure-landing-zone</a></h3>
+      <p>Production Azure Cloud Adoption Framework (CAF) Hub-and-Spoke Landing Zone with Azure Firewall Premium, Bastion, UDR forced tunneling, and Zero-Trust network governance.</p>
       <p>
         <img src="https://img.shields.io/badge/Terraform-1.5+-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-Enterprise-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Checkov-Passed-2496ED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Azure-Landing_Zone-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compliance-CIS_v2.0-107C41?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/patelneetu10-stack">devsecops-pipeline-templates</a></h3>
-      <p>Production reusable Azure DevOps & GitHub Actions YAML templates with integrated SAST, GitLeaks, Trivy, Checkov, Infracost, and manual approval gates.</p>
+      <h3>☸️ <a href="https://github.com/patelneetu10-stack/aks-cluster-infra">aks-cluster-infra</a></h3>
+      <p>Hardened Azure Kubernetes Service (AKS) platform with Cilium eBPF network policies, Azure Workload Identity, Key Vault CSI auto-rotating secrets, and ACR integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Azure_Pipelines-YAML-0078D4?style=flat-square&logo=azure-devops&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-Shift--Left-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kubernetes-1.29-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cilium-eBPF-F34B7D?style=flat-square&logo=cilium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zero_Trust-Workload_Identity-black?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/patelneetu10-stack">azure-finops-automation</a></h3>
-      <p>Automated PowerShell and Azure Functions suite for orphaned disk cleanups, unattached IP detection, off-hour VM scheduling, and DCR log telemetry tuning.</p>
+      <h3>🏥 <a href="https://github.com/patelneetu10-stack/healthcare-platform-infra">healthcare-platform-infra</a></h3>
+      <p>HIPAA / HITRUST-compliant healthcare infrastructure on Azure with zone-redundant PostgreSQL Flexible Server (CMK encryption), HSM Key Vault, and 730-day WORM immutable storage.</p>
       <p>
-        <img src="https://img.shields.io/badge/FinOps-Automation-28A745?style=flat-square" />
-        <img src="https://img.shields.io/badge/PowerShell-Core-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compliance-HIPAA_Rule-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-CMK_Encryption-0078D4?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Storage-WORM_730d-orange?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📜 <a href="https://github.com/patelneetu10-stack">azure-policy-guardrails-pack</a></h3>
-      <p>Ready-to-deploy Azure Policy initiatives enforcing CIS Azure Foundations Benchmark, mandatory tagging, disk encryption, and location lockdown.</p>
+      <h3>⚙️ <a href="https://github.com/patelneetu10-stack/platform-infrastructure-prod">platform-infrastructure-prod</a></h3>
+      <p>Multi-tier production shared services platform featuring Azure NAT Gateway with deterministic static egress, Redis distributed caching, and automated nightly drift detection.</p>
       <p>
-        <img src="https://img.shields.io/badge/Azure_Policy-Governance-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-        <img src="https://img.shields.io/badge/CIS_Benchmark-v2.0-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Terraform-State_Locking-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Egress-NAT_Gateway-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/IaC-Nightly_Drift_Audit-107C41?style=flat-square" />
       </p>
     </td>
   </tr>
