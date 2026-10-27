@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,30&height=250&section=header&text=Neetu%20Patel&fontSize=52&fontAlignY=36&desc=Lead%20DevSecOps%20%7C%20Enterprise%20Cloud%20%26%20Agentic%20AI%20Architect&descAlignY=58&descFontSize=20&animation=twinkling" width="100%" alt="Neetu Patel - Lead DevSecOps & Enterprise AI Architect Banner" />
+<!-- Animated Header Wave Banner with Glowing Highlighted Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,30&height=250&section=header&text=⚡%20NEETU%20PATEL%20⚡&fontSize=52&fontAlignY=36&desc=Lead%20DevSecOps%20%7C%20Enterprise%20Cloud%20%26%20Agentic%20AI%20Architect&descAlignY=58&descFontSize=20&animation=twinkling" width="100%" alt="Neetu Patel - Lead DevSecOps & Enterprise AI Architect Banner" />
 
 <!-- Animated Glowing Cyber Laser Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Laser Divider" />
 
 <br/>
 
-### **5+ Years Experience • Enterprise Azure Landing Zones • Model Context Protocol (MCP) • Production RAG • LLMOps • Zero-Trust DevSecOps**
+# 👋 Hi there, I'm <mark style="background: linear-gradient(120deg, #0078D4 0%, #00C7B7 100%); color: white; padding: 4px 18px; border-radius: 8px; font-weight: 800; display: inline-block;">Neetu Patel</mark> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" alt="Waving Hand" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=780&lines=Lead+DevSecOps+%26+Enterprise+AI+%2F+Cloud+Architect;Enterprise+Agentic+AI+Systems+%26+Model+Context+Protocol+(MCP);Production+RAG+Pipelines+%26+Hybrid+Vector+Search;LLMOps+%E2%80%A2+AI+Guardrails+%26+OWASP+Top+10+for+LLMs;Migrated+100%2B+Enterprise+Workloads+with+Zero+Downtime;Terraform+Enterprise+IaC+%26+Azure+CAF+Landing+Zones;FinOps+Leader+%7C+%241.2M%2B+Cloud+%26+Token+OpEx+Saved+(28%25);Zero-Trust+Security+%7C+100%25+CIS+Benchmark+Compliance)](https://git.io/typing-svg)
+### 🚀 **Building Secure, Scalable & Automated Cloud Infrastructure with Azure, Terraform, Kubernetes and CI/CD.**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=860&lines=Building+Secure%2C+Scalable+%26+Automated+Cloud+Infrastructure;With+Azure%2C+Terraform%2C+Kubernetes+and+CI%2FCD;Lead+DevSecOps+%26+Enterprise+AI+%2F+Cloud+Architect;Enterprise+Agentic+AI+Systems+%26+Model+Context+Protocol+(MCP);Production+RAG+Pipelines+%26+Hybrid+Vector+Search;Migrated+100%2B+Enterprise+Workloads+with+Zero+Downtime;FinOps+Leader+%7C+%241.2M%2B+Cloud+%26+Token+OpEx+Saved+(28%25);Zero-Trust+Security+%7C+100%25+CIS+Benchmark+Compliance)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,7 +23,8 @@
 
 <!-- Quick Navigation Bar -->
 <p align="center">
-  <a href="#-executive-summary--philosophy"><b>Executive Summary</b></a> •
+  <a href="#-executive-summary--philosophy-"><b>Executive Summary</b></a> •
+  <a href="#-core-architecture-pillars"><b>Core Pillars</b></a> •
   <a href="#-quantified-enterprise-business-impact"><b>Impact Metrics</b></a> •
   <a href="#-industry-certifications--credentials"><b>Certifications</b></a> •
   <a href="#-enterprise-technical-arsenal"><b>Tech Stack</b></a> •
@@ -39,6 +42,20 @@
 ### 🌐 *"Bridging Business ROI, Zero-Trust DevSecOps, Enterprise Cloud Architecture & Autonomous Agentic AI"*
 
 </div>
+
+<br/>
+
+## 📌 Core Architecture Pillars & Mission
+
+> *"Building Secure, Scalable & Automated Cloud Infrastructure with Azure, Terraform, Kubernetes and CI/CD."*
+
+- 🔒 **Secure by Design:** End-to-end Zero-Trust posture with Microsoft Entra ID Privileged Identity Management (PIM/JIT), automated CIS Azure Benchmarks, Checkov/Trivy shift-left static analysis, secret scanning (GitLeaks), and OWASP Top 10 for LLMs guardrails.
+- 📈 **Scalable & Resilient:** Enterprise Hub-and-Spoke Landing Zones, multi-Availability Zone compute (VMSS & AKS node auto-scaling), and geo-redundant storage delivering **99.99% availability** with RTO < 15m and RPO < 5m.
+- ⚙️ **Automated Infrastructure (IaC):** 100% declarative infrastructure orchestrated through modular, version-controlled Terraform with remote state lease locking in Azure Blob and scheduled unattended nightly drift detection pipelines.
+- ☁️ **Azure Enterprise Foundation:** Microsoft Cloud Adoption Framework (CAF) management group hierarchy, private link endpoints for all PaaS services, and centralized traffic inspection through Azure Firewall Premium.
+- ☸️ **Kubernetes (AKS) & Cloud Native:** Microservices orchestration with AKS, Helm charts, automated container image scanning, Istio service mesh, and GitOps delivery models.
+- 🔄 **Enterprise CI/CD Pipelines:** Trunk-based branching strategies, mandatory multi-reviewer pull request policies, automated quality gates, and automated deployment rollback runbooks across Azure DevOps and GitHub Actions.
+
 
 <br/>
 
