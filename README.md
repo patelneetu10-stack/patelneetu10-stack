@@ -36,9 +36,9 @@
 
 <br/>
 
-<!-- 3D Isometric DevOps & Azure Cloud Architecture Hero Visual -->
+<!-- Production Cloud Platform & DevSecOps Architecture Blueprint -->
 <p align="center">
-  <img src="./assets/azure-devops-3d.png" width="96%" alt="Enterprise Azure Cloud & DevOps 3D Isometric Architecture Visual" />
+  <img src="./assets/enterprise-architecture-blueprint.svg" width="100%" alt="Enterprise Azure Cloud & DevSecOps Architecture Blueprint" />
 </p>
 
 </div>
