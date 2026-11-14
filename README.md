@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/patelneetu10"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:patel.neetu10@gmail.com"><img src="https://img.shields.io/badge/Email-patel.neetu10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/patelneetu10-stack"><img src="https://img.shields.io/badge/GitHub-patelneetu10--stack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Focus-Azure_Platform_Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Focus" /></a>
+  <a href="https://github.com/CloudEngineeringHub"><img src="https://img.shields.io/badge/Org-CloudEngineeringHub-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="CloudEngineeringHub" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Remote%20%2F%20Hybrid-107C41?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Experience-5%2B%20Years%20Production-8A2BE2?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Experience" /></a>
 </p>
